@@ -1,0 +1,1 @@
+Developed a robotic rover which can run on electric transmission line and inspect the high voltage transmission lines and send real-time visual video of EHV line for corrosion and detects damaged conductor strands.
